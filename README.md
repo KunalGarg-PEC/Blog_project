@@ -22,7 +22,7 @@ The MERN Blog Project is a web application aimed at providing a platform for use
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/KunalGarg-PEC/mern-blog-project.git`
-2. Navigate to the project directory: `cd mern-blog-project`
+2. Navigate to the project directory: `cd blog_project`
 3. Install dependencies:
    - Backend: `cd client && npm install`
    - Frontend: `cd api && npm install`
